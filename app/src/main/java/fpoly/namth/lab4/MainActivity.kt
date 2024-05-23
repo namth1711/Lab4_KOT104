@@ -1,4 +1,4 @@
-package com.duyle.lab4
+package fpoly.namth.lab4
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -29,7 +29,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.duyle.lab4.ui.theme.Lab4Theme
+import fpoly.namth.lab4.ui.theme.Lab4Theme
 
 class MainActivity : ComponentActivity() {
     @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
